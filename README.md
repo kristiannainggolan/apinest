@@ -1,3 +1,3 @@
 # apinest
 
-APINEST is simple project API testing using mocha and chai
+APINEST is simple project API automation testing using mocha and chai
